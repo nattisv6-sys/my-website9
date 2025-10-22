@@ -154,6 +154,7 @@ body {
 
 @media (max-width: 768px){
     body {
+      color: rgb(228, 243, 255);
       background-color: rgb(228, 243, 255);
     }
     #nm {
@@ -170,6 +171,7 @@ body {
     top: -50px;
     }
 }
+
 
 
 
