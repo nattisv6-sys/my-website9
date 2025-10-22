@@ -156,7 +156,11 @@ body {
     body {
       background-color: rgb(228, 243, 255);
     }
-    
+    #nm {
+      font-size: 100%;
+      color: rgb(71, 60, 231);
+    }
 }
+
 
 
