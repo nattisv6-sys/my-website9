@@ -72,7 +72,7 @@
     margin-top: 15;
 }
 #nm {
-    font-size: 39px;
+    font-size: 240%;
     color: rgb(71, 60, 231);
 }
 #adr {
@@ -158,4 +158,5 @@ body {
     }
     
 }
+
 
