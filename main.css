@@ -152,7 +152,7 @@ body {
 
 }
 
-@media (min-width: 768px){
+@media (max-width: 768px){
     body {
       background-color: rgb(228, 243, 255);
     }
@@ -161,6 +161,7 @@ body {
       color: rgb(71, 60, 231);
     }
 }
+
 
 
 
