@@ -187,8 +187,13 @@ body {
      margin-top: 25px;
      margin-bottom: 25px;
     }
-    
+    #im2 {
+    position:relative;
+    right: -20%;
+    top: -800px;  
+    }
 }
+
 
 
 
