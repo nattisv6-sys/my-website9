@@ -149,4 +149,12 @@ body {
    background: rgb(228, 243, 255);
    color: rgb(56, 172, 230);
    text-decoration: none;
+
+}
+
+@media (max-width: 768px){
+    body {
+      background-color: rgb(228, 243, 255);
+    }
+    
 }
