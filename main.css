@@ -1,0 +1,152 @@
+#l {
+    width: 100%;
+    height: 1cm;
+    background: rgb(101, 155, 255);
+}
+#txt {
+    font-size: 20px;
+    color: rgb(28, 28, 152);
+}
+#rd {
+    color: red;
+}
+#bl {
+    color: blue;
+    font-size: 35px;
+}
+#main {
+   width: 100%;
+   height: 470px;
+   background: rgb(255, 255, 255); /*189, 207, 230*/
+   margin-top: 50px;
+   margin-bottom: 50px;
+}
+#f {
+    background: rgb(255, 255, 255);
+    width: 100%;
+    height: 50px;
+    text-align: left;
+}
+#bt {
+    margin-bottom: 100px;
+}
+.ib {
+    background: rgb(255, 255, 255);
+    height: 500px;
+}
+#i_f {
+    margin-top: 60px;
+}
+.nf {
+    color: rgb(8, 56, 160);
+    background: rgb(247, 250, 255);
+    margin-right: 100px;
+    width: 250px;
+    float: left;
+    text-decoration: none;
+    border: 2px solid rgb(101, 155, 255);
+}
+.i {
+    color: rgb(8, 56, 160);
+    /* background: rgb(99, 169, 203); */
+    /* background: rgb(170, 196, 229); */
+    /* width: 50%;
+    height: 60px; */
+} 
+#m {
+    background: rgb(255, 255, 255);/*170, 196, 229*/
+    text-align: center;
+    color: rgb(24, 56, 199);
+    width: 100%;
+    height: 270px;
+    position: relative;
+    top: -50px;
+}
+#im2 {
+    position:relative;
+    right: -49%;
+    top: -400px;  
+}
+#im {
+    float: left;
+    margin-top: 15;
+}
+#nm {
+    font-size: 39px;
+    color: rgb(71, 60, 231);
+}
+#adr {
+    background: white;
+    width: 200px;
+    height: 50px;
+    color: rgb(27, 80, 214);
+    text-align: left;
+    float: left;
+    margin-right: 30px;
+}
+#map {
+    color: rgb(27, 80, 214);
+    text-decoration: none;
+}
+#map:hover {
+    text-decoration: underline;
+}
+#eml {
+    background:white;
+    width: 200px;
+    height: 50px;
+    color: rgb(27, 80, 214);
+    text-align: left;
+    float: left;
+    margin-right: 30px;
+}
+#phn {
+    background: white;
+    width: 200px;
+    height: 50px;
+    color: rgb(27, 80, 214);
+    text-align: left;
+    float: left;
+    margin-right: 20%;
+}
+#inf {
+    background: rgb(196, 217, 255);
+    color: rgb(8, 56, 160);
+    text-align: left;
+    width: 550px;
+    height: 200px;
+    font-size: 24px;
+    margin-bottom: 89px;
+}
+.gurtok {
+    background: rgb(255, 255, 255);
+    color: rgb(2, 46, 158);
+    text-align: left;
+    width: 100%;
+    height: 400px;
+    font-size: 24px;
+    margin-bottom: 50px;
+}
+body {
+    background-image: url('https://photos.wikimapia.org/p/00/05/06/70/15_big.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+}
+
+.link {
+    color: rgb(255, 255, 255);/*71, 60, 231*/
+    border-radius: 7px;
+    float: right;
+    margin-top: 30px;
+    margin-right: 25px;
+    background: rgb(59, 120, 226);
+    font-size: 25px;
+    text-decoration: none;
+}
+.link:hover {
+   background: rgb(228, 243, 255);
+   color: rgb(56, 172, 230);
+   text-decoration: none;
+}
